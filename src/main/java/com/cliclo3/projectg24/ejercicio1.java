@@ -10,7 +10,7 @@ package com.cliclo3.projectg24;
  */
 public class ejercicio1 {
     public void Metodo(){
-        System.out.println("Logica metodo dos");
+        System.out.println("Logica metodo tos");
         
     }
 }
